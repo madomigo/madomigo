@@ -1,69 +1,38 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://madomigo.github.io">Mateo Domínguez</a> 👋</h1>
-</div>
+# Hi there 👋, I'm Mateo Domínguez
 
-## Sobre mi
+### 📐 Mathematics & Computer Engineering | 🚀 Competitive Programmer
 
-- 🎓 Estudiante de Matemáticas e Ingeniería Informática en la Universidad de La Rioja.
-- 📲 Apasionado desarrollador con experiencia en <span style="font-weight: bold;">algoritmia y programación competitiva</span>. 
-- 💻 Comprometido con la creación de soluciones innovadoras y eficientes para desafíos tecnológicos.
-- ⭐ Disfruto colaborando en proyectos que me permitan aprender y crecer profesionalmente.
-<br>
+I am a dual-degree student in **Mathematics and Computer Engineering** at the University of La Rioja (Spain). I specialize in the intersection of mathematical logic and software development, with a strong focus on algorithm design, computational complexity, and writing highly optimized code.
 
-## Mis proyectos
+### 💡 About Me
+- 🎓 Currently finishing my B.S. in Mathematics (Expected 2026) and continuing my B.S. in Computer Engineering (Expected 2027).
+- 🧠 I love tackling complex problems where data structures and time/space complexity truly matter.
+- 📚 Always learning: from Graph Theory and Dynamic Programming to clean code architecture.
 
-<br>
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
+**Languages:**
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Languages**:
-    
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+**Core Competencies:**
+- Algorithm Design & Analysis
+- Advanced Data Structures
+- Formal Logic & Discrete Mathematics
+- Object-Oriented Programming (OOP)
 
-<br>   
-    
-- **Front-End Development**:
+---
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 📊 Competitive Programming Journey
+I actively participate in coding platforms like **AceptaElReto** and **Codeforces**. Below you'll find my main repository where I upload my solutions.
 
-<br>
+---
 
-- **Cloud Hosting**:
+### 📫 Let's Connect
+- **Email:** mateodominguezgomez@gmail.com
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-
-</p>
-
-<br>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/madomigo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=madomigo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=madomigo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+*"Computer Science is no more about computers than astronomy is about telescopes." — Edsger W. Dijkstra*
